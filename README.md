@@ -7,4 +7,8 @@ Coding Portfolio
 			# sorting algorithm implementations
 			# multi-threading
 
-		-> C currently has an example of a terminal shell program and associated makefile.
+		-> C:
+			# Example of a terminal shell program and associated makefile.
+			# Threading/ directory has various examples of multi-threaded computation done for class assignments.
+
+		
