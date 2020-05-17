@@ -10,5 +10,6 @@ Coding Portfolio
 		-> C:
 			# Example of a terminal shell program and associated makefile.
 			# Threading/ directory has various examples of multi-threaded computation done for class assignments.
+				- To run: make clean; make all;
 
 		
